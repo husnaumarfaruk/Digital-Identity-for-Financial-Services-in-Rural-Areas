@@ -7,3 +7,5 @@ O
 tests/identity-creation.test.ts,8/4/84fafb0cf9350396ee895b92e8e9ca14655ba60b
 Q
 !contracts/local-verification.clar,6/b/6b0c78068cefa9f25b718f5366bd9316c7d53d00
+M
+contracts/service-access.clar,6/9/697ba7a046d21468c6aeb04544ebf750f0855804
