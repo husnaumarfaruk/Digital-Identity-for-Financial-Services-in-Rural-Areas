@@ -9,3 +9,5 @@ Q
 !contracts/local-verification.clar,6/b/6b0c78068cefa9f25b718f5366bd9316c7d53d00
 M
 contracts/service-access.clar,6/9/697ba7a046d21468c6aeb04544ebf750f0855804
+R
+"contracts/transaction-history.clar,8/6/86a341b5b9c0888d44c7a9f0d8d1dcd1b61f5c18
